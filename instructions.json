@@ -1,0 +1,30 @@
+
+[
+         [
+          "Study Instructions-1",
+            "<br>Before you begin note that the progress bar at the top of the screen represents your progress through each phase of the experiment. Also, during each individual phase there will be a bar at the bottom of the screen that represents your time remaining for that phase.<br><br>First, you will complete a study phase. During the study phase, a passage will appear on the screen, and your job is to study the passage so that you can remember it later.<br><br>You will study the text for a minimum of 5 minutes. When 5 minutes is over, you may advance by pressing the next button when you are ready.",
+        ],
+        [
+            "Study Instruction-2",
+            "<br>Before you begin note that the progress bar at the top of the screen represents your progress through each phase of the experiment. Also, during each individual phase there will be a bar at the bottom of the screen that represents your time remaining for that phase.<br><br>First, you will complete a study phase. During the study phases, a passage will appear on the screen, and your job is to study each passage so that you can remember it later. There will be a total of four passages to study in this study. Each will be followed by a box that prompts you to enter everything you remember from the proceeding passage.<br><br>You will study each text for a minimum of 2 minutes. When 2 minutes is over, you may advance by pressing the next button when you are ready.",
+            "<br> Please study the text so that you can remember it later." 
+        ],
+        [
+            "Study instructions-3",
+                "<br>Before you begin note that the progress bar at the top of the screen represents your progress through each phase of the experiment. Also, during each individual phase there will be a bar at the bottom of the screen that represents your time remaining for that phase.<br><br>First, you will complete a study phase. During the study phases, a passage will appear on the screen, and your job is to study each passage so that you can remember it later. There will be a two passages to study in this study. Each will be followed by a box that prompts you to enter everything you remember from the proceeding passage.<br><br>You will study each text for a minimum of 2 minutes. When 2 minutes is over, you may advance by pressing the next button when you are ready.",
+                "<br> Please study the text so that you can remember it later." 
+        ]
+        [
+        	"Pacman Instructions",
+        	   "<br>Next, you will play Pac-Man.<br><br>You must spend at least 4 minutes playing Pac-Man. When 4 minutes is over, you may advance by pressing the next button when you are ready.",
+        	   "<br>Next, you will play Pac-Man again.<br><br>You must spend at least 4 minutes playing Pac-Man. When 4 minutes is over, you may advance by pressing the next button when you are ready."
+        ],
+        [
+        	"Recall Instructions",
+        	   "<br>Next, you will complete a recall phase. A screen will appear with a box for you to recall a passage. Your job is to type in as much as you can remember from the passage. <br><br>You must spend at least 2 minutes on this task. When 2 minutes is over, you may advance by pressing the next button when you are ready."
+        ],
+       [ 
+       "Final recall",
+        "<br> A box will appear for you to recall what you have studied, please try to recall as much as you possibly can from what you have studied. <br><br> You must spend at least 2 minutes on this task, but it may take longer to write all that you remember so please write everything you remember before moving on."
+       ],
+]
